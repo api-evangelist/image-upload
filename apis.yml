@@ -1,0 +1,32 @@
+aid: image-upload
+name: Image Upload
+description: "Image Optimization"
+url: https://apilayer.com/marketplace/image_upload-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Photography"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Photography
+  - Public APIs
+apis:
+  - name: Image Upload
+    description: "Image Optimization"
+    humanURL: https://apilayer.com/marketplace/image_upload-api
+    baseURL: https://apilayer.com/marketplace/image_upload-api
+    tags:
+      - Photography
+    properties:
+      - type: Documentation
+        url: https://apilayer.com/marketplace/image_upload-api
+common:
+  - type: Website
+    url: https://apilayer.com/marketplace/image_upload-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
