@@ -39,7 +39,6 @@ apis:
   - name: Image Upload
     description: "Image Optimization"
     humanURL: https://apilayer.com/marketplace/image_upload-api
-    baseURL: https://apilayer.com/marketplace/image_upload-api
     tags:
       - Photography
     properties:
